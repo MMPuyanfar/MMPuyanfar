@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am Mahdi Puyanfar.
+I'm a self-taught web developer!
+I'm currently studying MA in Computer Engineering at the University of Tehran.
 
 <!--
 **MMPuyanfar/MMPuyanfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
